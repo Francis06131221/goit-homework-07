@@ -19,6 +19,7 @@
   padding: 0;
   margin: 0;
 }
+
 body {
   box-sizing: inherit;
   font-family: 'Roboto', sans-serif;
@@ -376,7 +377,7 @@ nav {
 .section-hero {
   padding: 112px 0;
   background: linear-gradient(rgb(46, 47, 66, 0.7), rgb(46, 47, 66, 0.7)),
-    url("../images/people-office.jpg");
+    url("../images/people-office\ 1.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1324,3 +1325,4 @@ nav {
 .button-send:active {
   background-color: var(--ocean);
 }
+
